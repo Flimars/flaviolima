@@ -3,7 +3,7 @@
 - 👨‍💼 Hoje trabalho como desevolvedor front-end e analista processos BPMN.
 - 👨‍💻 Estudo Análise e Desenvolvimento de Sistemas no IFRS.
 - 📚 Aprofundando meus estudos em JS.
-- 👨🏻‍🎓 Formado Técnico em Automação Industrial.
+- 👨🏻‍🎓 Formado Técnico em Automação Industrial pelo IFRS.
 
 <div>
    <a href="https://github.com/Flimars"></a>
